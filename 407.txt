@@ -227,35 +227,4 @@ DOX音像世界,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&proto
 周星驰电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112#http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
 周润发电影,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
 
-北京地方,#genre#
-清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8#https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-新华英文,https://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv4hd.m3u8
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv2hd.m3u8#http://117.148.179.160:80/PLTV/88888888/224/3221231570/index.m3u8
-北京科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv3hd.m3u8
-北京财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv5hd.m3u8
-北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv7hd.m3u8
-北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv8hd.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv9hd.m3u8
-冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8#http://223.110.243.215/PLTV/3/224/3221227699/index.m3u8#http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv11hd.m3u8
-卡酷少儿,http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225677/index.m3u8
-
-上海地方,#genre#
-上海新闻,http://140.207.241.3:8080/live/program/live/xwzhhd/2300000/d1.m3u8#http://39.134.118.77/live.gq.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1#http://111.40.196.36/PLTV/88888888/224/3221225499/index.m3u8
-上海纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8#http://183.207.248.71/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi#http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-上海外语,http://111.40.196.9:80/PLTV/88888888/224/3221225489/index.m3u8#http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-上海都市,http://117.148.179.165:80/PLTV/88888888/224/3221231618/index.m3u8#http://111.40.196.37/PLTV/88888888/224/3221225613/index.m3u8
-东方影视,http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8#http://117.148.179.166:80/PLTV/88888888/224/3221231639/index.m3u8#http://39.134.118.77/live.gq.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=1
-五星体育,http://111.40.196.9/PLTV/88888888/224/3221225503/index.m3u8#http://140.207.241.3:8080/live/program/live/ssty/2300000/d1.m3u8
-劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8#http://iptv.tvfix.org/hls/jbtyhd.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43084/2300.m3u8
-都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8#http://183.207.248.71/gitv/live1/G_DUSHIJC/G_DUSHIJC#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000598&playtoken=ABCDEFGH&auth=noC#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/2300000/mnf.m3u8
-欢笑剧场,http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43039/2300.m3u8
-生活时尚,http://223.110.243.208/PLTV/4/224/3221227707/index.m3u8#http://111.40.196.31/PLTV/88888888/224/3221225501/index.m3u8
-动漫秀场,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43045/index.m3u8
-哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/2300000/mnf.m3u8
-全纪实,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43040/2300.m3u8#http://iptv.tvfix.org/hls/qjshd.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/2300000/mnf.m3u8
-新视觉,http://140.207.241.3:8080/live/program/live/xsjhd/2300000/d1.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43082/2300.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/2300000/mnf.m3u8
-七彩戏剧,http://111.40.196.32/PLTV/88888888/224/3221225607/index.m3u8
-魅力足球,http://140.207.241.3:8080/live/program/live/mlyyhd/4000000/d1.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
 
