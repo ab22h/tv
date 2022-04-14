@@ -49,12 +49,7 @@ CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#https://p.ggiptv.co
 辽宁卫视,rtsp://60.22.151.120:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil#http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel32/2300.m3u8#http://117.148.179.152:80/PLTV/88888888/224/3221231802/1.m3u8
 吉林卫视,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000562&playtoken=ABCDEFGH&auth=noC#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226792/48616745.smil
 黑龙江卫视,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8#http://117.148.179.141:80/PLTV/88888888/224/3221231967/1.m3u8#rtsp://60.22.151.120:554/PLTV/88888888/224/3221226465/10000100000000060000000000133826_0.smil#rtsp://183.252.166.199/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
-海南卫视,http://ott.js.chinamobile.com:80/PLTV/4/224/3221228139/index.m3u8#rtsp://183.252.166.199:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil#http://live.scuec.edu.cn:8080/hls/lyhd.m3u8
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
-宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
-陕西卫视,http://129.226.107.32:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-南方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226788/48356344.smil#http://39.135.34.150:8080/000000001000/1000000002000011619/1.m3u8?xtkg#http://183.207.248.71/gitv/live1/G_NANFANG/G_NANFANG
-三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226819/57526516.smil
+
 
 
 央视频道,#genre#
@@ -79,7 +74,7 @@ CCTV5+赛事台,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/l
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#https://p.ggiptv.com/v/4k.m3u8#http://ye23.win/iptv/4k.cctv.php
 
 卫视频道,#genre#
-内蒙古卫视,http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
+
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8#http://ott.js.chinamobile.com:80/PLTV/4/224/3221228115/index.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/2300.m3u8#rtsp://60.22.151.120:554/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil#http://117.148.179.168:80/PLTV/88888888/224/3221231732/index.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226092/10000100000000060000000002296930_0.smil
 上海卫视,http://111.40.196.35/PLTV/88888888/224/3221225509/index.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226041/10000100000000060000000002296882_0.smil#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226261/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8#http://117.148.179.160:80/PLTV/88888888/224/3221231738/index.m3u8
 重庆卫视,rtsp://60.22.151.120:554/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil#http://ott.js.chinamobile.com:80/PLTV/4/224/3221228133/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel56/2300.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225734/index.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226753/45949735.smil
@@ -110,12 +105,6 @@ CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#https://p.ggiptv.co
 辽宁卫视,rtsp://60.22.151.120:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil#http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel32/2300.m3u8#http://117.148.179.152:80/PLTV/88888888/224/3221231802/1.m3u8
 吉林卫视,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000562&playtoken=ABCDEFGH&auth=noC#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226792/48616745.smil
 黑龙江卫视,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8#http://117.148.179.141:80/PLTV/88888888/224/3221231967/1.m3u8#rtsp://60.22.151.120:554/PLTV/88888888/224/3221226465/10000100000000060000000000133826_0.smil#rtsp://183.252.166.199/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
-海南卫视,http://ott.js.chinamobile.com:80/PLTV/4/224/3221228139/index.m3u8#rtsp://183.252.166.199:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil#http://live.scuec.edu.cn:8080/hls/lyhd.m3u8
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
-宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
-陕西卫视,http://129.226.107.32:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-南方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226788/48356344.smil#http://39.135.34.150:8080/000000001000/1000000002000011619/1.m3u8?xtkg#http://183.207.248.71/gitv/live1/G_NANFANG/G_NANFANG
-三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226819/57526516.smil
 
 大陆标清,#genre#
 中央1台,http://111.63.117.13:6060/030000001000/G_CCTV-1/G_CCTV-1.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8#http://live.scuec.edu.cn:8080/hls/cctv1.m3u8
@@ -163,13 +152,7 @@ CETV教育二台,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 江西卫视,rtsp://60.22.151.210/PLTV/460033/224/0/3221226046/3221225913.smil#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel22/1300.m3u8
 陕西卫视,http://live.scuec.edu.cn:8080/hls/sxtv.m3u8#rtsp://60.22.151.210/PLTV/88888888/224/3221226453/iptv127270.smil
 广西卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel59/1300.m3u8#rtsp://60.22.151.210/PLTV/460033/224/0/3221225943/000000000ace.smil
-宁夏卫视,rtsp://60.22.151.210/PLTV/88888888/224/0/3221226147/iptv112765.smil#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel69/2300.m3u8
-甘肃卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel57/1300.m3u8#rtsp://60.22.151.210/PLTV/88888888/224/3221226457/iptv8889102159.smil
-新疆卫视,rtsp://60.22.151.210/PLTV/88888888/224/0/3221226149/iptv147985.smil#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel64/1300.m3u8#http://live.scuec.edu.cn:8080/hls/xjtv.m3u8
-兵团卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel67/2300.m3u8#rtsp://60.22.151.210/PLTV/88888888/224/3221226464/iptv8889102157.smil
-西藏卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/2300.m3u8#rtsp://60.22.151.210/PLTV/88888888/224/0/3221226102/000000000vfo.smil
-海南卫视,rtsp://60.22.151.210/PLTV/460033/224/0/3221225850/0000000008p5.smil#http://live.scuec.edu.cn:8080/hls/lytv.m3u8
-三沙卫视,http://live.scuec.edu.cn:8080/hls/sstv.m3u8
+
 
 zi,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
