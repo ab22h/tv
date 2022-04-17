@@ -1,11 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="特色", 求索记录
-http://183.214.126.200:3003/live/qsjl/index.m3u8
 
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台", 民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 
 #EXTINF:-1 group-title="电影剧集", IPTV电影4K
@@ -16,8 +12,6 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1$华北
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视", CCTV6
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1$华北
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台", 三立新闻
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="电影剧集", 欢笑剧场4K
 http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视", CCTV-4KHDR
