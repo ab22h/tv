@@ -39,8 +39,7 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index
 http://ye23.win/iptv/4k.cctv.php
 
 
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="央视", CCTV8K超高清
-http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
+
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chchd.jpg" group-title="电影剧集", CHC高清电影
 http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影剧集", CHC动作电影
