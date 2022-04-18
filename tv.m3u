@@ -90,7 +90,8 @@ http://120.253.104.16:808/hls/142/index.m3u8
 http://120.253.104.16:808/hls/140/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影剧集", 北京IPTV4k
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-
+#EXTINF:-1 group-title="中国" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg", 黑莓电影
+http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影剧集", 邵氏影院
 http://121.51.249.101/hlstct.douyucdn2.cn/dyliveflv1a/4246519rFdrQBjin.m3u8?
