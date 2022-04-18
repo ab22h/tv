@@ -1,7 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="新闻", 年代新闻
+P2p://ns2.hellotvvod.com:9906/0dfd916cb908440b9b5b5b63937ab71c.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 纯享4k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k", 纯享4k
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 
 
