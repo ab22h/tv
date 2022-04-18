@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="新闻", 年代新闻
-P2p://ns2.hellotvvod.com:9906/0dfd916cb908440b9b5b5b63937ab71c.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k", 纯享4k
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 
 
 
@@ -122,8 +118,6 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影剧集", 苏州电影娱乐
-https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="7244" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影剧集", 峨眉电影
