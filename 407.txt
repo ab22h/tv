@@ -154,7 +154,7 @@ CCTV17,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/chann
 广西卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel59/1300.m3u8#rtsp://60.22.151.210/PLTV/460033/224/0/3221225943/000000000ace.smil
 
 
-zi,#genre#
+电影剧集,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
@@ -168,13 +168,34 @@ J2,http://120.84.96.32:808/hls/86/index.m3u8
 IPTV古装剧场,http://58.20.64.92:9998/tsfile/live/1044_1.m3u8
 J2,http://120.84.96.32:808/hls/86/index.m3u8
 IPTV高清院线,http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
+IPTV抗战剧场,http://58.20.64.92:9998/tsfile/live/1032_1.m3u8
+看电影,http://182.151.211.171:808/hls/58/index.m3u8
+幸福娱乐,http://120.253.104.16:808/hls/143/index.m3u8
+幸福剧场,http://120.253.104.16:808/hls/142/index.m3u8
+每日影院,http://120.253.104.16:808/hls/140/index.m3u8
+北京IPTV4k,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
+邵氏影院,http://121.51.249.101/hlstct.douyucdn2.cn/dyliveflv1a/4246519rFdrQBjin.m3u8?
 爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+北京IPTV淘baby,http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+北京IPTV萌宠TV,
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+北京IPTV淘电影,
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
+北京IPTV淘剧场,
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+北京IPTV淘娱乐,
+http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+ 四川经济,
+http://182.151.211.171:808/hls/50/index.m3u8
+IPTV高清院线,
+http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
+都市剧场,
+http://140.207.241.3:8080/live/program/live/dsjchd/4000000/d1.m3u8
+CCTV6,http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg#http://ott.js.chinamobile.com:80/PLTV/4/224/3221228123/index.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/2300.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8#http://117.148.179.153:80/PLTV/88888888/224/3221231724/index.m3u8
 
 
 
-
-影视乐园,#genre#
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
 CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
