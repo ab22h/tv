@@ -1,7 +1,9 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 group-title="电影剧集", 卫视电影
+http://61.221.81.93:8507/hls/62/804/ch07.m3u8
+#EXTINF:-1 group-title="电影剧集", 电影2
+http://61.221.81.93:8561/hls/62/804/ch08.m3u8
 
 
 #EXTINF:-1 group-title="电影剧集", IPTV电影4K
