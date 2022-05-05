@@ -202,7 +202,44 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http
 CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 
 测试,#genre#
-
+中视,http://50.7.61.148:30080/Entry/ctv
+台视,http://50.7.61.148:30080/Entry/ttv
+民视,http://50.7.61.147:30080/Entry/ftv
+华视,http://50.7.61.147:30080/Entry/cts
+TVBS,http://50.7.61.148:30080/Entry/tvbs
+TLC,http://50.7.61.147:30080/Entry/tlc
+JET综合,http://50.7.61.147:30080/Entry/jet
+SET三立台湾,http://50.7.61.148:30080/Entry/settw-
+卫视中文,http://50.7.61.148:30080/Entry/starchinese
+AXN,http://50.7.61.148:30080/Entry/axn
+HBO,http://50.7.61.148:30080/Entry/hbo
+东森新闻,http://50.7.61.147:30080/Entry/etnews
+纬来日本,http://50.7.61.147:30080/Entry/vljp
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+TVBS新闻,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商业,http://50.7.61.147:30080/Entry/ubnbus
+壹新闻 HD,http://50.7.61.147:30080/Entry/etv
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+中天新闻,http://iptv.tvfix.org/hls/ztxw.m3u8
+东森新闻,http://iptv.tvfix.org/hls/dsxw.m3u8
+民視,rtmp://59.124.75.157/sat/tv051
+台視,rtmp://59.124.75.157/sat/tv071
+中視,rtmp://59.124.75.157/sat/tv091
+華視,rtmp://59.124.75.157/sat/tv111
+TVBS新聞,rtmp://59.124.75.157/sat/tv551
+TVBS歡樂,rtmp://59.124.75.157/sat/tv421
+東森財經新聞,rtmp://59.124.75.157/sat/tv571
+東森超視,rtmp://59.124.75.157/sat/tv521
+緯來育樂,rtmp://59.124.75.157/sat/tv701
+緯來體育,rtmp://59.124.75.157/sat/tv721
+ELEVEN1,rtmp://59.124.75.157/sat/tv731
+ELEVEN2,rtmp://59.124.75.157/sat/tv741
+緯來日本,rtmp://59.124.75.157/sat/tv771
+MOMO綜合,rtmp://59.124.75.157/sat/tv761
+ELTA體育2,rtmp://59.124.75.157/sat/md011
+ELEVEN2,rtmp://59.124.75.157/sat/md021
+博斯網球,rtmp://59.124.75.157/sat/md031
 
 成龙电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890#http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
