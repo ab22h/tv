@@ -50,8 +50,35 @@ CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http
 周润发电影,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
 147:11315/hls/72/814/ch46.m3u8
 
-中天新闻,p5p://fccs.123178.top:9906/6174fe8b000be03302ae798f40145c4c.ts
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+StarWorld,http://60.249.146.250:8561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
+华视新闻资讯,http://60.249.146.250:8592/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+壹电视新闻,http://60.249.146.250:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 
+年代新闻台,http://60.249.146.250:8593/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+
+民视新闻台,http://60.249.146.250:8596/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+
+寰宇新闻台,http://60.249.146.250:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
+
+
+三立新闻台,http://60.249.146.250:8597/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+中天新闻,p5p://fccs.123178.top:9906/6174fe8b000be03302ae798f40145c4c.ts
+寰宇新聞台,mitv://ns2.hellotvvod.com:9906/bf653a209c6a4481b48c1a8730393507.ts
+寰宇新聞台灣台,mitv://ns2.hellotvvod.com:9906/0b31c823cd2645a5bc254fb3e6e65ae9.ts
+非凡商業台,mitv://ns2.hellotvvod.com:9906/4e8be2ed2cda4b918e7165faff00afcd.ts
+非凡新聞台,mitv://ns2.hellotvvod.com:9906/0a5140c765154ab580d92768b447519b.ts
+壹電視新聞台,mitv://ns2.hellotvvod.com:9906/1217d4fa03ea43f3910f4361da712da8.ts
+壹電視綜合,mitv://ns2.hellotvvod.com:9906/86b154e6cb97489e889bf3a690c4d6f1.ts
+超視,mitv://ns2.hellotvvod.com:9906/9ef08347f54447b28d71969ee386b38c.ts
+高點綜合台,mitv://ns2.hellotvvod.com:9906/f90afd040ed649c9837bc14d752d2e68.ts
+國興衛視,mitv://ns2.hellotvvod.com:9906/b0c8544c97464cc5bfbcf3067fc09bfc.ts
+韓國娛樂台,mitv://ns2.hellotvvod.com:9906/9cff80ac083a4105b379818c2343c51b.ts
+靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/895f01362647463e91848baf9157a227.ts
+年代新聞,mitv://ns2.hellotvvod.com:9906/2c82d9fe9b564e5dab9010d5b57557c2.ts
+霹靂台灣台,mitv://ns2.hellotvvod.com:9906/3527fc960749422697dcb6eef6c70777.ts
 
 
 壹新闻,p5p://fccs.123178.top:9906/61494a29000d70560d62917d35be0fae.ts
