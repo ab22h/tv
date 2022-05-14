@@ -178,7 +178,16 @@ IPTV高清院线,
 http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
 
 CCTV6,http://117.148.179.153:80/PLTV/88888888/224/3221231724/index.m3u8
+CHC高清电影,http://111.20.106.16:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P
+CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8?$移动超清1080P#http://111.20.106.16:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8?$移动超清1080P#http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8?$咪咕移动1080P
+TVB影视剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8?$咪咕移动720P
+Y＋影院,http://live.aikan.miguvideo.com:80/PLTV/88888888/224/3221230226/index.m3u8?$咪咕移动1080P
 
+黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8?$移动超清1080P
+峨眉电影,http://39.135.212.2:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/scem/1.m3u8?IASHttpSessionId=OTT?$移动超清1080P
+北京4K超清,http://221.179.136.148:443/PLTV/88888888/224/3221226550/1.m3u8?$移动蓝光4K
+北京淘电影,http://221.179.136.142:443/PLTV/88888888/224/3221226552/1.m3u8?$移动超清1080P
 
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
