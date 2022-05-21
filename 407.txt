@@ -45,9 +45,9 @@ CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http
 
 
 
-NBA,https://demf1kf3itpt4.cloudfront.net/hls/TNT/chunks.m3u8
-黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
 
+黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
+TNT,https://demf1kf3itpt4.cloudfront.net/hls/TNT/chunks.m3u8
 
 张国荣电影,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 
