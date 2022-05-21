@@ -38,15 +38,66 @@ Y＋影院,http://live.aikan.miguvideo.com:80/PLTV/88888888/224/3221230226/index
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
 CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+中天新闻,http://60.249.146.250:8595/playlist.m3u8
+华视新闻,http://60.249.146.250:8592/playlist.m3u8
+民视新闻,http://60.249.146.250:8596/playlist.m3u8
+年代新闻,http://60.249.146.250:8593/playlist.m3u8
+东森新闻,http://60.249.146.250:8594/playlist.m3u8
+东森新闻,http://60.249.146.250:8503/playlist.m3u8
+年代新闻,http://60.249.146.250:8534/playlist.m3u8
+三立新闻,http://60.249.146.250:8597/playlist.m3u8
+寰宇新闻,http://60.249.146.250:8547/playlist.m3u8
+东森财经,http://60.249.146.250:8546/playlist.m3u8
+壹新闻,http://60.249.146.250:8548/playlist.m3u8
+中天娱乐,http://60.249.146.250:8584/playlist.m3u8
+中天综合,http://60.249.146.250:8583/playlist.m3u8
+东森超视,http://60.249.146.250:8582/playlist.m3u8
+东森戏剧,http://60.249.146.250:8587/playlist.m3u8
+东森幼幼,http://60.249.146.250:8515/playlist.m3u8
+年代MUCH,http://60.249.146.250:8586/playlist.m3u8
+公视,http://60.249.146.250:8505/playlist.m3u8
+人间卫视,http://60.249.146.250:8506/playlist.m3u8
+华视,http://60.249.146.250:8503/playlist.m3u8
+大爱台,http://60.249.146.250:8507/playlist.m3u8
+好消息,http://60.249.146.250:8508/playlist.m3u8
+国兴卫视,http://60.249.146.250:8545/playlist.m3u8
+卫视电影,http://60.249.146.250:8553/playlist.m3u8
+三立都会,http://60.249.146.250:8557/playlist.m3u8
+纬来电影,http://60.249.146.250:8555/playlist.m3u8
+纬来戏剧,http://60.249.146.250:8590/playlist.m3u8
+纬来育乐,http://60.249.146.250:8562/playlist.m3u8
+纬来日本,http://60.249.146.250:8591/playlist.m3u8
+纬来综合,http://60.249.146.250:8518/playlist.m3u8
+八大第一,http://60.249.146.250:8519/playlist.m3u8
+八大戏剧,http://60.249.146.250:8588/playlist.m3u8
+龙华电影,http://60.249.146.250:8522/playlist.m3u8
+龙华日韩,http://60.249.146.250:8535/playlist.m3u8
+龙华偶像,http://60.249.146.250:8536/playlist.m3u8
+龙华戏剧,http://60.249.146.250:8572/playlist.m3u8
+CINEMAX,http://60.249.146.250:8559/playlist.m3u8
+AXN,http://60.249.146.250:8558/playlist.m3u8
+HBO,http://60.249.146.250:8580/playlist.m3u8
+好莱坞电影,http://60.249.146.250:8521/playlist.m3u8
+星空电影,http://60.249.146.250:8560/playlist.m3u8
+博斯运动1,http://60.249.146.250:8564/playlist.m3u8
+ELEVEN1,http://60.249.146.250:8566/playlist.m3u8
+ELEVEN2,http://60.249.146.250:8567/playlist.m3u8
+NATIONAL,http://60.249.146.250:8509/playlist.m3u8
+TLC,http://60.249.146.250:8511/playlist.m3u8
+24号[1920*1080],http://60.249.146.250:8523/playlist.m3u8
+动物星球,http://60.249.146.250:8512/playlist.m3u8
+亚洲旅游,http://60.249.146.250:8513/playlist.m3u8
+
 
 测试,#genre#
-腾讯nba,https://780f987e3c6c0c2499aa8588a5067f77.v.smtcdns.net:443/txycdn.video.qq.com/3774E8107FB7B3426C662AC47D2E2CE9F0838E56A951F7C68AE08BE1030A7F61FA6A6DCC4B60A6DA4D6366D421E26B934F4C8940EACAF28CDEEE1B1FFE1D8FD7F992E56FA67651BC4BB0D75BF2780AEAB194756CB80531E1C4E123E7A98FDCE6CC5D6D42B2E5417F/1745141102.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1653089102&cdn=tcloud&sdtfrom=v2211&platform=10201&butype=2&scheduleflag=0&buname=qqlive&vkey=3774E8107FB7B3426C662AC47D2E2CE9F0838E56A951F7C68AE08BE1030A7F61FA6A6DCC4B60A6DA4D6366D421E26B934F4C8940EACAF28CDEEE1B1FFE1D8FD7F992E56FA67651BC4BB0D75BF2780AEAB194756CB80531E1C4E123E7A98FDCE6CC5D6D42B2E5417F&drmtype=0
+腾讯体育,https://780f987e3c6c0c2499aa8588a5067f77.v.smtcdns.net:443/txycdn.video.qq.com/3774E8107FB7B3426C662AC47D2E2CE9F0838E56A951F7C68AE08BE1030A7F61FA6A6DCC4B60A6DA4D6366D421E26B934F4C8940EACAF28CDEEE1B1FFE1D8FD7F992E56FA67651BC4BB0D75BF2780AEAB194756CB80531E1C4E123E7A98FDCE6CC5D6D42B2E5417F/1745141102.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1653089102&cdn=tcloud&sdtfrom=v2211&platform=10201&butype=2&scheduleflag=0&buname=qqlive&vkey=3774E8107FB7B3426C662AC47D2E2CE9F0838E56A951F7C68AE08BE1030A7F61FA6A6DCC4B60A6DA4D6366D421E26B934F4C8940EACAF28CDEEE1B1FFE1D8FD7F992E56FA67651BC4BB0D75BF2780AEAB194756CB80531E1C4E123E7A98FDCE6CC5D6D42B2E5417F&drmtype=0
 
 
 
 
 
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
+
 TNT,https://demf1kf3itpt4.cloudfront.net/hls/TNT/chunks.m3u8
 
 张国荣电影,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
