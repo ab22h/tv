@@ -53,12 +53,7 @@ http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集", CHC家庭影院
-http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="电影剧集", 爱上4k
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影剧集", CHC家庭影院
-http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
+
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chchd.jpg" group-title="电影剧集", CHC高清电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226463/index.m3u8
 
@@ -73,8 +68,7 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index
 http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影剧集", CHC动作电影
 http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="电影剧集", 爱上4k
-http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+
 
 
 
@@ -94,8 +88,7 @@ http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
 
 #EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="电影剧集", 四川经济
 http://182.151.211.171:808/hls/50/index.m3u8
-#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="港澳台", 中天娱乐
-http://60.250.91.85:8585/.m3u8
+
 
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="电影剧集", 龙华戏剧
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
@@ -116,8 +109,7 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 #EXTINF:-1 group-title="电影剧集" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg", 黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影剧集", 邵氏影院
-http://121.51.249.101/hlstct.douyucdn2.cn/dyliveflv1a/4246519rFdrQBjin.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影剧集", IPTV古装剧场
 http://58.20.64.92:9998/tsfile/live/1044_1.m3u8
 
