@@ -1,25 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视", CCTV8
-http://39.135.32.28:6610/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="央视", CCTV1
 http://39.134.65.179/PLTV/88888888/224/3221225816/1.m3u8
 
-#EXTINF:-1 group-title="央视", CCTV6
-http://39.135.32.28:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="央视", CCTV5
 http://39.135.138.58:18890/PLTV/88888888/224/3221225751/index.m3u8
 #EXTINF:-1 group-title="央视", CCTV5
 http://39.135.138.58:18890/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1 group-title="央视", CCTV5+
-http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="央视", CCTV13
 http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="央视", CCTV13
-http://39.135.32.28:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="上海", 东方卫视
-http://39.135.32.28:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="上海", 东方卫视
-http://39.135.32.28:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 
 #EXTINF:-1 group-title="浙江", 浙江卫视
@@ -28,14 +19,10 @@ http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
 http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="湖南", 湖南卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="安徽", 安徽卫视
-http://39.134.65.179/PLTV/88888888/224/3221225851/1.m3u8
+
 #EXTINF:-1 group-title="北京", 北京卫视
 http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
-#EXTINF:-1 group-title="北京", 北京卫视
-http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8
-#EXTINF:-1 group-title="央视", CHC家庭影院
-http://39.134.32.102:6610/270000001111/1110000010/index.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="IPTV", 北京IPTV淘娱乐
 http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
