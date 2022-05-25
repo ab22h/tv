@@ -18,6 +18,10 @@ http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 http://39.135.32.28:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="上海", 东方卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="上海", 东方卫视
+http://39.135.32.28:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
+
 #EXTINF:-1 group-title="浙江", 浙江卫视
 http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="湖南", 湖南卫视
