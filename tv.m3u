@@ -15,29 +15,32 @@ http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 
 
 #EXTINF:0 , CCTV2
-https://jmstv.52sf.ga/hls/cctv2hd.m3u8
-#EXTINF:0 , CCTV3
-https://jmstv.52sf.ga/hls/cctv3hd.m3u8
-#EXTINF:0 , CCTV4
-https://jmstv.52sf.ga/hls/cctv4hd.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+
 #EXTINF:0 , CCTV5
-https://jmstv.52sf.ga/hls/cctv5hd.m3u8
-#EXTINF:0 , CCTV5+
-https://jmstv.52sf.ga/hls/cctv5phd.m3u8
-#EXTINF:0 , CCTV6
-https://jmstv.52sf.ga/hls/cctv6hd.m3u8
+http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 group-title="央视", CCTV5+
+http://117.148.179.136/PLTV/88888888/224/3221231459/1.m3u8
+#EXTINF:-1 group-title="央视", CCTV-5+HD
+http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 group-title="央视", CCTV6
+http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
 
-#EXTINF:0 , CCTV8
-https://jmstv.52sf.ga/hls/cctv8hd.m3u8
-
+#EXTINF:-1 group-title="央视", CCTV8
+http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 group-title="央视", CCTV8
+http://39.134.65.183/PLTV/88888888/224/3221225795/1.m3u8
 
 #EXTINF:0 , 安徽卫视
-https://jmstv.52sf.ga/hls/ahhd.m3u8
-#EXTINF:0 , 北京卫视
-https://jmstv.52sf.ga/hls/brtv1hd.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="北京", 北京卫视
+http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1 group-title="中国", 北京卫视
+http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:0 , 东方卫视
-https://jmstv.52sf.ga/hls/dfhd.m3u8
-
+http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="上海", 东方卫视
+http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
 #EXTINF:-1 group-title="中国", 浙江卫视
 http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="中国", 湖南卫视
@@ -45,8 +48,7 @@ http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="中国", 湖南卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
 
-#EXTINF:-1 group-title="中国", 北京卫视
-http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
+
 
 #EXTINF:-1 group-title="IPTV", 北京IPTV淘娱乐
 http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
