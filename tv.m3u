@@ -21,7 +21,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视", CCTV5+
 http://117.148.179.136/PLTV/88888888/224/3221231459/1.m3u8
-#EXTINF:-1 group-title="央视", CCTV-5+HD
+#EXTINF:-1 group-title="央视", CCTV-5+
 http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="央视", CCTV6
 http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
@@ -101,8 +101,8 @@ http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="电影剧集", 四川经济
-http://182.151.211.171:808/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="2055"  group-title="体育", 五星体育
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 
 
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="电影剧集", 龙华戏剧
