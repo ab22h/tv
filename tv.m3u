@@ -150,7 +150,7 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index
 
 
 
-#EXTINF:-1 tvg-id="7244" tvg-name="ESPN" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="体育", ESPN
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="体育", ESPN
 https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
 
 
