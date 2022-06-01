@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="中国",CCTV九画
+http://39.135.55.7:6610/PLTV/88888888/224/3221226664/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="中国",CCTV1
 http://39.134.65.179/PLTV/88888888/224/3221225816/1.m3u8
 
