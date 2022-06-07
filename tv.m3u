@@ -11,7 +11,8 @@ http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="新闻",年代新闻台
 http://211.23.114.106:11330/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-
+#EXTINF:-1,壹电视新闻台
+http://211.23.114.106:11,405/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育", 五星体育频道
