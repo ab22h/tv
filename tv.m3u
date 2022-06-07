@@ -16,10 +16,10 @@ http://211.23.114.106:11330/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育", 五星体育频道
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 group-title="体育",博斯运动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="体育",博斯运动一台
 http://211.23.114.106:11130/http/60.251.39.91:8066/hls/210/10018/cstv18.m3u8
 
-#EXTINF:-1 group-title="体育",博斯运动II
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="体育",博斯运动二台
 http://211.23.114.106:11450/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
 #EXTINF:-1 group-title="体育",CCTV5
 http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
