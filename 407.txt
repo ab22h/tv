@@ -1,4 +1,10 @@
 电影剧集,#genre#
+中天新聞台,p2p://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
+民視新聞台,p2p://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
+東森新聞台,p2p://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+壹電視新聞台,p2p://fccs.word-tv.com:9906/62541b7c0007f8c30979c109c2ede6a3
+年代新聞台,p2p://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
+
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 IPTV4K超高清,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
